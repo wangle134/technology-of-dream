@@ -1,1 +1,19 @@
+body,ul,p,span{padding: 0px;margin: 0px;}
+li{list-style: none;}
+a{text-decoration: none;}
+#head{width: 960px;height: 119px;margin: 0 auto;position: relative;}
+#head #brand{position: absolute;top: 34px;}
+#head #oP{width: 338px;height: 49px;border-left: 1px solid #e8e8e8;padding-left: 16px;position: absolute;left: 273px;top: 36px;}
+#head #oP p{font-size: 14px;font-family: 微软雅黑;color: #8a8a8a;}
+#head #oP p span{font-size: 24px;color: #fa8100;}
+#head #QRcode{width: 195px;height: 51px;position: absolute;left: 755px;top: 34px;}
+#head #QRcode img{position: relative;}
+#head #QRcode p{position: absolute;left: 64px;top: 5px;font-size: 16px;font-family: 微软雅黑;}
+#head #QRcode p span{font-size: 24px;font-family: Impact;color: #005c9d;}
 
+#nav{width: 100%;height: 49px;background: #00659c;}
+#nav ul{width: 976px;height: 49px;margin: 0 auto;}
+#nav ul li{width: 121px;height: 49px;float: left;}
+#nav ul li a{display: block;width: 121px;height: 14px;font-family: 微软雅黑;font-size: 14px;color: #ffffff;
+	line-height: 14px;float: left;border-right: 1px solid #ffffff;position: relative;top: 19px;text-align: center;}
+#nav ul li:hover{background: #004b8b;}
